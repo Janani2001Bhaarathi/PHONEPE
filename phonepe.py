@@ -1124,14 +1124,14 @@ if selected == "Insights":
 #------------------------------------------------------Contact TAB---------------------------------------------------------------------------
 if selected == "Contact":
     col1, col2 = st.columns(2)  
-    #col2.image(Image.open(r'C:\Users\gowth\Downloads\project_phonepe\files\gowtham.JPG'), width=600)
+    col2.image(Image.open(r'C:\Users\JANANI BHAARATHI\OneDrive\Desktop\New folder (3)\E-a_c2YUYAUqm2W.jpg'), width=600)
     col2.write("janani")
     with col1:
-        st.markdown("# :violet[Done by] : GOWTHAM E") 
+        st.markdown("# :violet[Done by] : JANANI BHAARATHI K M") 
         st.markdown("## :An Aspiring DATA-SCIENTIST..!")
-        st.markdown("Gmail: gowthame82000@gmail.com")
+        st.markdown("Gmail: jananibharathi2001@gmail.com")
         st.markdown("[Inspired from](https://www.phonepe.com/pulse/)")
-        st.markdown("[Githublink](https://github.com/Gowthame123)")
-        st.markdown("[LinkedIn](https://www.linkedin.com/in/gowthamesakki/)") 
+        st.markdown("[Githublink](https://github.com/Janani2001Bhaarathi/)")
+        st.markdown("[LinkedIn](https://www.linkedin.com/in/janani-bhaarathi-k-m-25988a22a/)") 
 st.write("---")        
 
