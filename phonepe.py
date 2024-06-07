@@ -22,7 +22,7 @@ cursor = mydb.cursor()
 
 #-------------------------------------------------------streamlit part--------------------------------------------------------------------------
 st.set_page_config(layout="wide")
-#img = Image.open(r"")
+#img = Image.open(r"C:\Users\JANANI BHAARATHI\OneDrive\Desktop\phonepe image.jpg")
 #st.image(img, use_column_width=True)
 selected = option_menu(None,
                        options = ["Home","Analysis","Insights","Contact"],
@@ -1124,8 +1124,7 @@ if selected == "Insights":
 #------------------------------------------------------Contact TAB---------------------------------------------------------------------------
 if selected == "Contact":
     col1, col2 = st.columns(2)  
-    col2.image(Image.open(r'C:\Users\JANANI BHAARATHI\OneDrive\Desktop\New folder (3)\E-a_c2YUYAUqm2W.jpg'), width=600)
-    col2.write("janani")
+    col2.image(Image.open(r'C:\Users\JANANI BHAARATHI\OneDrive\Desktop\PHONEPE 2\JANANI BHAARATHI K M.jpeg'), width=400)
     with col1:
         st.markdown("# :violet[Done by] : JANANI BHAARATHI K M") 
         st.markdown("## :An Aspiring DATA-SCIENTIST..!")
