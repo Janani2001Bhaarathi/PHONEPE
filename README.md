@@ -78,7 +78,7 @@
 <h2 id="contact">Contact</h2>
 <p>If you want to get in touch, you can find me on:</p>
 <p>
-    <a href="www.linkedin.com/in/janani-bhaarathi-k-m-25988a22a/" target="_blank">
+    <a href="https://www.linkedin.com/in/janani-bhaarathi-k-m-25988a22a/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JANANI BHAARATHI K M" height="30" width="40" />
     </a>
 </p>
